@@ -4,8 +4,11 @@
 </h1>
 
 ## 🔎Demonstração
-<h1>
+<h1 align"center">
     <img src="./assets/dev.finance$-desktop.png">
+</h1>
+
+<h1 align"center">
     <img src="./assets/dev.finance$-mobile.png">
 </h1>
 
